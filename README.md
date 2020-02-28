@@ -4,7 +4,7 @@
 
 ### Links and Resources
 
-- [submission PR]()
+- [submission PR](https://github.com/Mohammed-401-advanced-javascript/Lab-28/pull/1)
 - [ci/cd]() (GitHub Actions)
 
 ### Setup
